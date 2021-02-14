@@ -1,0 +1,34 @@
+date,location,total_vaccinations,source_url,vaccine,people_vaccinated,people_fully_vaccinated
+2020-12-31,Finland,1767,https://github.com/HS-Datadesk/koronavirus-avoindata,Pfizer/BioNTech,,
+2021-01-04,Finland,3604,https://github.com/HS-Datadesk/koronavirus-avoindata,Pfizer/BioNTech,,
+2021-01-05,Finland,5445,https://github.com/HS-Datadesk/koronavirus-avoindata,Pfizer/BioNTech,,
+2021-01-07,Finland,8155,https://github.com/HS-Datadesk/koronavirus-avoindata,Pfizer/BioNTech,,
+2021-01-08,Finland,11135,https://github.com/HS-Datadesk/koronavirus-avoindata,Pfizer/BioNTech,,
+2021-01-11,Finland,14196,https://github.com/HS-Datadesk/koronavirus-avoindata,Pfizer/BioNTech,,
+2021-01-12,Finland,17617,https://github.com/HS-Datadesk/koronavirus-avoindata,Pfizer/BioNTech,,
+2021-01-13,Finland,23126,https://github.com/HS-Datadesk/koronavirus-avoindata,Pfizer/BioNTech,,
+2021-01-14,Finland,33033,https://github.com/HS-Datadesk/koronavirus-avoindata,Pfizer/BioNTech,,
+2021-01-15,Finland,43143,https://github.com/HS-Datadesk/koronavirus-avoindata,Pfizer/BioNTech,,
+2021-01-18,Finland,54568,https://github.com/HS-Datadesk/koronavirus-avoindata,Pfizer/BioNTech,,
+2021-01-19,Finland,55824,https://github.com/HS-Datadesk/koronavirus-avoindata,Pfizer/BioNTech,,
+2021-01-20,Finland,62061,https://github.com/HS-Datadesk/koronavirus-avoindata,Pfizer/BioNTech,,
+2021-01-21,Finland,78300,https://github.com/HS-Datadesk/koronavirus-avoindata,Pfizer/BioNTech,,
+2021-01-22,Finland,91260,https://github.com/HS-Datadesk/koronavirus-avoindata,Pfizer/BioNTech,,
+2021-01-25,Finland,110651,https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html,Pfizer/BioNTech,106098.0,4553.0
+2021-01-26,Finland,117007,https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html,Pfizer/BioNTech,110047.0,6960.0
+2021-01-27,Finland,126910,https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html,Pfizer/BioNTech,117555.0,9355.0
+2021-01-28,Finland,138323,https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html,Pfizer/BioNTech,127783.0,10540.0
+2021-01-29,Finland,151790,https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html,Pfizer/BioNTech,137551.0,14239.0
+2021-01-30,Finland,162277,https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html,Pfizer/BioNTech,144520.0,17757.0
+2021-02-01,Finland,163760,https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html,Pfizer/BioNTech,145557.0,18203.0
+2021-02-02,Finland,163973,https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html,Pfizer/BioNTech,145770.0,18203.0
+2021-02-03,Finland,173372,https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html,Pfizer/BioNTech,149951.0,23421.0
+2021-02-04,Finland,193917,https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html,Pfizer/BioNTech,159624.0,34293.0
+2021-02-05,Finland,207303,https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html,Pfizer/BioNTech,164636.0,42667.0
+2021-02-06,Finland,217844,https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html,Pfizer/BioNTech,169194.0,48650.0
+2021-02-07,Finland,220116,https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html,Pfizer/BioNTech,170335.0,49781.0
+2021-02-08,Finland,220636,https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",170641.0,49995.0
+2021-02-09,Finland,227427,https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",173558.0,53869.0
+2021-02-10,Finland,233775,https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",178005.0,55770.0
+2021-02-11,Finland,247536,https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",187384.0,60152.0
+2021-02-12,Finland,261342,https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",197540.0,63802.0

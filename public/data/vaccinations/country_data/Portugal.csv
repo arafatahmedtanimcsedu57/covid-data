@@ -1,0 +1,26 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
+Portugal,2020-12-28,Pfizer/BioNTech,https://www.sns.gov.pt/noticias/2020/12/28/covid-19-vacinacao-de-profissionais/,4828,4828,0
+Portugal,2020-12-29,Pfizer/BioNTech,https://www.sns.gov.pt/noticias/2020/12/29/quase-17-mil-profissionais-ja-receberam-a-vacina/,16701,16701,0
+Portugal,2020-12-30,Pfizer/BioNTech,https://ionline.sapo.pt/artigo/719646/marta-temido-anunciou-que-ja-foram-vacinados-quase-27-mil-profissionais-de-sa-de-?seccao=Portugal_i,26850,26850,0
+Portugal,2021-01-03,Pfizer/BioNTech,https://expresso.pt/sociedade/2021-01-04-Covid-19.-32-mil-vacinados-em-Portugal-quase-um-milhao-no-Reino-Unido--onde-a-espera-pela-2.-dose-e-de-12-semanas--322-em-Franca,32000,32000,0
+Portugal,2021-01-06,Pfizer/BioNTech,https://www.portugal.gov.pt/pt/gc22/comunicacao/noticia?i=servico-nacional-de-saude-ja-administrou-mais-de-32-mil-doses-de-vacina,42035,42035,0
+Portugal,2021-01-08,Pfizer/BioNTech,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/,70000,70000,0
+Portugal,2021-01-15,Pfizer/BioNTech,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/,106000,106000,0
+Portugal,2021-01-22,Pfizer/BioNTech,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/,212000,,
+Portugal,2021-01-23,Pfizer/BioNTech,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/,232725,,
+Portugal,2021-01-26,Pfizer/BioNTech,https://www.publico.pt/2021/01/26/sociedade/noticia/160-mil-utentes-profissionais-lares-ja-receberam-menos-primeira-dose-vacina-1948066,263499,225499,38000
+Portugal,2021-01-27,Pfizer/BioNTech,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/,278413,,
+Portugal,2021-01-28,Pfizer/BioNTech,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/,296004,,
+Portugal,2021-01-29,Pfizer/BioNTech,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/,315737,,
+Portugal,2021-01-30,Pfizer/BioNTech,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/,330233,,
+Portugal,2021-01-31,Pfizer/BioNTech,https://www.sns.gov.pt/monitorizacao-do-sns/vacinas-covid-19/,336771,268386,68385
+Portugal,2021-02-01,Pfizer/BioNTech,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/,338566,269814,68755
+Portugal,2021-02-03,Pfizer/BioNTech,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/,350945,275093,75852
+Portugal,2021-02-04,Pfizer/BioNTech,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/,364211,279236,84975
+Portugal,2021-02-06,Pfizer/BioNTech,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/,379378,284462,94916
+Portugal,2021-02-07,Pfizer/BioNTech,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/,394088,290302,103786
+Portugal,2021-02-08,Pfizer/BioNTech,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/,395904,291378,104526
+Portugal,2021-02-09,"Moderna, Pfizer/BioNTech",https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/,396371,291758,104613
+Portugal,2021-02-10,"Moderna, Pfizer/BioNTech",https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/,400190,294135,106055
+Portugal,2021-02-11,"Moderna, Pfizer/BioNTech",https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/,436220,303142,133078
+Portugal,2021-02-12,"Moderna, Pfizer/BioNTech",https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/,468319,310715,157604
