@@ -1,5 +1,6 @@
 # Test counts
-meta <- fromJSON(file = "https://healthdata.gov/api/3/action/package_show?id=c13c00e3-f3d0-4d49-8c43-bf600a6c0a0d")
+# TODO this code needs to migrate to the current healthdata.gov API, the legacy links will break in about 2 weeks
+meta <- fromJSON(file = "https://legacy.healthdata.gov/api/3/action/package_show?id=c13c00e3-f3d0-4d49-8c43-bf600a6c0a0d")
 url <- meta$result[[1]]$resources[[1]]$url
 
 df <- fread(url, showProgress = FALSE, select = c("date", "new_results_reported"))
